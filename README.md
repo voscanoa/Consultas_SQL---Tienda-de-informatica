@@ -1,1 +1,1 @@
-# Realizacion-de-consultas-SQL---Tienda-de-inform-tica
+# Consultas-SQL---Tienda-de-informatica
